@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/benjaminlaird
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bl.id.au
+  * I am benjaminlaird (https://keybase.io/benjaminlaird) on keybase.
+  * I have a public key ASBrR_lvihiEaIMV8jc98th4XFOojxdBMSrvY7mQ_k5AxAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c9506d946e8e94901f3889024433fcf0a1694b3ccec378888c7bc8b70c7ff3180a",
+      "host": "keybase.io",
+      "kid": "01206b47f96f8a1884688315f2373df2d8785c53a88f1741312aef63b990fe4e40c40a",
+      "uid": "7e19e368b5ebd3ad4e77b5cbbf8aa819",
+      "username": "benjaminlaird"
+    },
+    "merkle_root": {
+      "ctime": 1517051007,
+      "hash": "db21b5bc3880cc068fc7ae203cf5bbcb83528d5593896c787c6caba04da86c76a6c94edb37dfb8b9ef80d9c5d65dbcb8adaf82a2fba73b4206c25e6c18e35a23",
+      "hash_meta": "3935a7bc40b32f0092c359703c4b941d844dae96a3afaafbb5272cba1085442f",
+      "seqno": 1990719
+    },
+    "service": {
+      "hostname": "bl.id.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1517051040,
+  "expire_in": 504576000,
+  "prev": "b85536d12e3e8dc1fa807cfb1150cbbfb5a3872f765a0989164511ea47901ece",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEga0f5b4oYhGiDFfI3PfLYeFxTqI8XQTEq72O5kP5OQMQKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzk1MDZkOTQ2ZThlOTQ5MDFmMzg4OTAyNDQzM2ZjZjBhMTY5NGIzY2NlYzM3ODg4OGM3YmM4YjcwYzdmZjMxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmI0N2Y5NmY4YTE4ODQ2ODgzMTVmMjM3M2RmMmQ4Nzg1YzUzYTg4ZjE3NDEzMTJhZWY2M2I5OTBmZTRlNDBjNDBhIiwidWlkIjoiN2UxOWUzNjhiNWViZDNhZDRlNzdiNWNiYmY4YWE4MTkiLCJ1c2VybmFtZSI6ImJlbmphbWlubGFpcmQifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTcwNTEwMDcsImhhc2giOiJkYjIxYjViYzM4ODBjYzA2OGZjN2FlMjAzY2Y1YmJjYjgzNTI4ZDU1OTM4OTZjNzg3YzZjYWJhMDRkYTg2Yzc2YTZjOTRlZGIzN2RmYjhiOWVmODBkOWM1ZDY1ZGJjYjhhZGFmODJhMmZiYTczYjQyMDZjMjVlNmMxOGUzNWEyMyIsImhhc2hfbWV0YSI6IjM5MzVhN2JjNDBiMzJmMDA5MmMzNTk3MDNjNGI5NDFkODQ0ZGFlOTZhM2FmYWFmYmI1MjcyY2JhMTA4NTQ0MmYiLCJzZXFubyI6MTk5MDcxOX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJibC5pZC5hdSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM5In0sImN0aW1lIjoxNTE3MDUxMDQwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImI4NTUzNmQxMmUzZThkYzFmYTgwN2NmYjExNTBjYmJmYjVhMzg3MmY3NjVhMDk4OTE2NDUxMWVhNDc5MDFlY2UiLCJzZXFubyI6MzIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA71Adnx48baX/1j2US3Be/sYG/HQ2Ru202wErs2sfXqctL8ln1TUPLLYwt3hc0MCJ6oppHhKaHHt7e+Ozo293B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ2SB1FH/SOXsvLO3kBhHXq7ysEw7s0HX3RmOJ2nXUfuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benjaminlaird
+
+==================================================================

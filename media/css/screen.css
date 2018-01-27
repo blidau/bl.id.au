@@ -1,0 +1,242 @@
+@font-face {
+    font-family: 'StMarieThin';
+    src: url('/media/fonts/StMarie-Thin-webfont.eot');
+    src: url('/media/fonts/StMarie-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/media/fonts/StMarie-Thin-webfont.woff') format('woff'),
+         url('/media/fonts/StMarie-Thin-webfont.ttf') format('truetype'),
+         url('/media/fonts/StMarie-Thin-webfont.svg#StMarieThin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body {
+	font-family: 'Lora', serif;
+	font-size:100%;
+	font-weight:normal;		
+	background: #0C4A6B;
+	padding:0px;
+	margin:0px;	
+}
+h1, h2, h3 {
+	font-family: 'StMarieThin', Georgia, "Times New Roman", serif;	
+	font-weight:bold;	
+}
+h1 {
+	padding:0.4em 0px 0.5em 60px;
+	text-transform:lowercase;
+	margin-top:0px;
+	background: url('/media/images/bl.png') no-repeat;
+}
+h2 {
+	margin-top:0.3em;	
+}
+ul {
+	padding:0px;
+	margin:0px;		
+	list-style-type:none;
+}
+li {
+	padding:0px;
+	margin:0px;			
+}
+img {
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;	
+	-ms-border-radius: 10px;	
+	-o-border-radius: 10px;		
+	border-radius: 10px;
+}
+#publications img {
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;	
+	-ms-border-radius: 0;	
+	-o-border-radius: 0;		
+	border-radius: 0;
+	width:50%; 
+	height:auto;
+	vertical-align:top;
+	float:left;
+}
+#publications h2, #publications h3 {
+	clear:left;
+}
+#publications h2 {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+#publications h3 {
+	padding: 1em 0 0 0;
+	margin-bottom: 0;
+}
+#publications h3#programmable {
+	padding: 0;
+}
+#publications dl {
+	margin-top: 0;
+	padding-top: 0;
+}
+#publications dt {
+	clear:left;
+	padding-top: 1em;
+}
+#publications dd {
+	padding-top: 0.8em;
+	clear:left;
+}
+.epoem span {
+	padding-left: 1em;
+	float:left;
+	width: 45%;
+}
+
+a:link { 
+	color:#A9B8D9;
+}
+a:visited {
+	color:#D99FC9;
+}
+a:focus, a:hover, a:active {
+	text-decoration:none;
+}
+h1 :link, h1 a:visited {
+	color:#A9B8D9;
+	text-decoration: none;
+}
+
+cite.essay,
+cite.poem {
+	font-style: normal;
+}
+cite.essay::before,
+cite.poem::before {
+	content:"“";
+}
+cite.essay::after,
+cite.poem::after {
+	content:"”";
+}
+
+li a {
+	padding:3px 0px 3px 30px;	
+	background-repeat: no-repeat;
+	display:inline-block;
+	background-position: 6px 6px;
+}
+sup {
+	line-height:80%;	
+}
+#blidau {
+	width:50em;
+	-moz-border-radius: 1em;
+	-webkit-border-radius: 1em;
+	-o-border-radius: 1em;
+	-ms-border-radius: 1em;				
+	border-radius: 1em;	
+	line-height:1.4em;		
+	background-color: #001722;
+	color:#A9B8D9;
+	-moz-box-shadow: -5px -5px 5px #000;
+	-webkit-box-shadow: -5px -5px 5px #000;
+	-ms-box-shadow: -5px -5px 5px #000;
+	-o-box-shadow: -5px -5px 5px #000;	
+	box-shadow: -5px -5px 5px #000;
+	margin: 1em auto;
+	padding:0.5em 1em 1em 1em;
+	position:relative;
+}
+::selection,
+::-moz-selection {
+	color:#001722;
+	background-color: #A9B8D9;
+}
+#error #blidau {
+		width:24em;
+	}
+.section {
+	width:22em;
+	padding:0em 1em;
+}
+#about {
+	float:left;
+}
+#interests {
+	float:right;
+}
+#image {
+	float:right;
+}
+#elsewhere {
+	float:right;
+	clear:right;
+}
+#twitter {
+	background-image: url('/media/images/twitter.png');	
+	background-size: 1em;
+}
+#identica {
+	background-image: url('/media/images/identica.png');	
+}
+#linkedin {
+	background-image: url('/media/images/linkedin.png');
+	background-size: 1em;
+}
+#goodreads {
+	background-image: url('/media/images/goodreads.png');
+}
+#footer {
+	font-size:80%;
+	text-align:center;
+	clear:both;
+}
+@media screen and (max-device-width: 768px) {
+	#blidau {
+		width:44em;
+	}
+	#about {
+		width:16em;
+	}
+	#contact {
+		width:16em;
+	}
+	.epoem span {
+		padding: 0.5em 0 0 0;
+		float:none;
+		display: block;
+		width:100%;
+	}
+	#publications img {
+		float: none;
+		display:block;
+		width:100%;
+	}
+	#publications dd {
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width: 750px), screen and (max-device-width: 480px) {
+	#blidau {
+		width:24em;
+	}
+	#about {
+		width:22em;
+}
+	#contact {
+		width:22em;
+	}
+	.epoem span {
+		padding: 0.5em 0 0 0;
+		float:none;
+		display: block;
+		width:100%;
+	}
+	#publications img {
+		float: none;
+		display:block;
+		width:100%;
+	}
+	#publications dd {
+		margin-left: 0;
+	}
+	
+}
