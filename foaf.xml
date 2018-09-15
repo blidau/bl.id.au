@@ -25,7 +25,7 @@
 	</based_near>
 	<img rdf:resource="https://bl.id.au/media/images/benjamin.jpg"/>
 	<currentProject rdf:resource="https://thecodeofthings.com"/>
-	<homepage rdf:resource="http://bl.id.au/"/>
+	<homepage rdf:resource="https://bl.id.au/"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Digital_poetry"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Poetry"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Metadata"/>
@@ -36,9 +36,9 @@
 	<interest rdf:resource="http://dbpedia.org/resource/Ergodic_literature"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Digital_humanities"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Open_source_hardware"/>
-	<schoolHomepage rdf:resource="http://www.swinburne.edu.au/"/>
-	<schoolHomepage rdf:resource="http://rmit.edu.au/"/>
-	<workplaceHomepage rdf:resource="https://commoncode.io/"/>
+	<schoolHomepage rdf:resource="https://www.swinburne.edu.au/"/>
+	<schoolHomepage rdf:resource="https://www.rmit.edu.au/"/>
+	<workplaceHomepage rdf:resource="https://www.acmi.net.au/"/>
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
 	<workplaceHomepage rdf:resource="https://overland.org.au/"/>
 	<account>
