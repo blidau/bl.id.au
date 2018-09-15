@@ -7,10 +7,10 @@
     xmlns:bio="http://purl.org/vocab/bio/0.1/"
     >
 <PersonalProfileDocument rdf:about="">
-	<maker rdf:resource="http://bl.id.au#me"/>
-	<primaryTopic rdf:resource="http://bl.id.au#me"/>
+	<maker rdf:resource="https://bl.id.au#me"/>
+	<primaryTopic rdf:resource="https://bl.id.au#me"/>
 </PersonalProfileDocument>
-<Person rdf:about="http://bl.id.au#me">
+<Person rdf:about="https://bl.id.au#me">
 	<name>Benjamin Laird</name>
 	<givenname>Benjamin</givenname>
 	<family_name>Laird</family_name>
@@ -23,8 +23,8 @@
 			<page rdf:resource="http://www.geonames.org/2158177"></page>
 		</geo:SpatialThing>
 	</based_near>
-	<img rdf:resource="http://bl.id.au/media/images/benjamin.jpg"/>
-	<currentProject rdf:resource="http://thecodeofthings.com"/>
+	<img rdf:resource="https://bl.id.au/media/images/benjamin.jpg"/>
+	<currentProject rdf:resource="https://thecodeofthings.com"/>
 	<homepage rdf:resource="http://bl.id.au/"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Digital_poetry"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Poetry"/>
@@ -38,19 +38,20 @@
 	<interest rdf:resource="http://dbpedia.org/resource/Open_source_hardware"/>
 	<schoolHomepage rdf:resource="http://www.swinburne.edu.au/"/>
 	<schoolHomepage rdf:resource="http://rmit.edu.au/"/>
+	<workplaceHomepage rdf:resource="https://commoncode.io/"/>
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
-	<workplaceHomepage rdf:resource="http://overland.org.au/"/>
+	<workplaceHomepage rdf:resource="https://overland.org.au/"/>
 	<account>
 		<OnlineAccount>
-			<accountServiceHomepage rdf:resource="http://twitter.com/"/>
-			<accountProfilePage rdf:resource="http://twitter.com/benjaminlaird"/>
+			<accountServiceHomepage rdf:resource="https://twitter.com/"/>
+			<accountProfilePage rdf:resource="https://twitter.com/benjaminlaird"/>
 			<accountName>benjaminlaird</accountName>
 		</OnlineAccount>
 	</account>
 	<account>
 		<OnlineAccount>
-			<accountServiceHomepage rdf:resource="http://linkedin.com/"/>
-			<accountProfilePage rdf:resource="http://linkedin.com/in/benjaminlaird"/>
+			<accountServiceHomepage rdf:resource="https://linkedin.com/"/>
+			<accountProfilePage rdf:resource="https://linkedin.com/in/benjaminlaird"/>
 			<accountName>benjaminlaird</accountName>
 		</OnlineAccount>
 	</account>
