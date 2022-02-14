@@ -38,7 +38,6 @@
 	<interest rdf:resource="http://dbpedia.org/resource/Open_source_hardware"/>
 	<schoolHomepage rdf:resource="https://www.swinburne.edu.au/"/>
 	<schoolHomepage rdf:resource="https://www.rmit.edu.au/"/>
-	<workplaceHomepage rdf:resource="https://www.acmi.net.au/"/>
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
 	<workplaceHomepage rdf:resource="https://overland.org.au/"/>
 	<account>
