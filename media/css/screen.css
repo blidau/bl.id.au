@@ -183,6 +183,10 @@ sup {
 #goodreads {
 	background-image: url('/media/images/goodreads.png');
 }
+#github {
+	background-image: url('/media/images/github.png');
+	background-size: 1em;
+}
 #footer {
 	font-size:80%;
 	text-align:center;

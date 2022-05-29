@@ -54,6 +54,13 @@
 			<accountName>benjaminlaird</accountName>
 		</OnlineAccount>
 	</account>
+	<account>
+		<OnlineAccount>
+			<accountServiceHomepage rdf:resource="https://github.com/"/>
+			<accountProfilePage rdf:resource="https://github.com/blidau"/>
+			<accountName>blidau</accountName>
+		</OnlineAccount>
+	</account>
 	<mbox_sha1sum>71d39d320039392a2302dee9c96edf58d57b8a93</mbox_sha1sum>
 </Person>
 </rdf:RDF>
