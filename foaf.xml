@@ -14,7 +14,7 @@
 	<name>Benjamin Laird</name>
 	<givenname>Benjamin</givenname>
 	<family_name>Laird</family_name>
-	<bio:olb>I am a PhD candidate in School of Media and Communication</bio:olb>
+	<bio:olb>I am a software engineer at Octopus Energy Australia, teach digital writing at RMIT University, and support the Cordite Poetry Review website in my free time.</bio:olb>
 	<based_near>
 		<geo:SpatialThing rdf:about="http://sws.geonames.org/2158177/">
 			<name>Melbourne, Victoria, Australia</name>
@@ -40,7 +40,6 @@
 	<schoolHomepage rdf:resource="https://www.rmit.edu.au/"/>
 	<workplaceHomepage rdf:resource="https://www.rmit.edu.au/"/>
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
-	<workplaceHomepage rdf:resource="https://overland.org.au/"/>
 	<account>
 		<OnlineAccount>
 			<accountServiceHomepage rdf:resource="https://twitter.com/"/>
