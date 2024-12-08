@@ -173,6 +173,10 @@ sup {
 	background-image: url('/media/images/twitter.png');	
 	background-size: 1em;
 }
+#x {
+	background-image: url('/media/images/logo-white.png');	
+	background-size: 1em;	
+}
 #identica {
 	background-image: url('/media/images/identica.png');	
 }

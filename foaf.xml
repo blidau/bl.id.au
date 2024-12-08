@@ -42,8 +42,8 @@
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
 	<account>
 		<OnlineAccount>
-			<accountServiceHomepage rdf:resource="https://twitter.com/"/>
-			<accountProfilePage rdf:resource="https://twitter.com/benjaminlaird"/>
+			<accountServiceHomepage rdf:resource="https://x.com/"/>
+			<accountProfilePage rdf:resource="https://x.com/benjaminlaird"/>
 			<accountName>benjaminlaird</accountName>
 		</OnlineAccount>
 	</account>
