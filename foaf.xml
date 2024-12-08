@@ -14,17 +14,18 @@
 	<name>Benjamin Laird</name>
 	<givenname>Benjamin</givenname>
 	<family_name>Laird</family_name>
-	<bio:olb>I am a software engineer at Octopus Energy Australia, teach digital writing at RMIT University, and support the Cordite Poetry Review website in my free time.</bio:olb>
+	<bio:olb>I am a research associate in software engineering for cultural data at Flinders University, working on AusStage, and I support the Cordite Poetry Review website in my free time.</bio:olb>
 	<based_near>
 		<geo:SpatialThing rdf:about="http://sws.geonames.org/2158177/">
 			<name>Melbourne, Victoria, Australia</name>
 	    	<geo:lat>-37.814</geo:lat>
-	      <geo:long>144.96332</geo:long>
+	    	<geo:long>144.96332</geo:long>
 			<page rdf:resource="http://www.geonames.org/2158177"></page>
 		</geo:SpatialThing>
 	</based_near>
 	<img rdf:resource="https://bl.id.au/media/images/benjamin.jpg"/>
 	<currentProject rdf:resource="https://thecodeofthings.com"/>
+	<currentProject rdf:resource="https://www.ausstage.edu.au/"/>
 	<homepage rdf:resource="https://bl.id.au/"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Digital_poetry"/>
 	<interest rdf:resource="http://dbpedia.org/resource/Poetry"/>
@@ -38,7 +39,7 @@
 	<interest rdf:resource="http://dbpedia.org/resource/Open_source_hardware"/>
 	<schoolHomepage rdf:resource="https://www.swinburne.edu.au/"/>
 	<schoolHomepage rdf:resource="https://www.rmit.edu.au/"/>
-	<workplaceHomepage rdf:resource="https://www.rmit.edu.au/"/>
+	<workplaceHomepage rdf:resource="https://www.flinders.edu.au/"/>
 	<workplaceHomepage rdf:resource="http://cordite.org.au/"/>
 	<account>
 		<OnlineAccount>
